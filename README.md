@@ -1,4 +1,4 @@
-![Social Banner](images/Banner.png)
+![Social Banner](images/social_banner.png)
 
 ### Hi 👋 I'm Ben Force
 
