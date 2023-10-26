@@ -1,5 +1,7 @@
 ![Social Banner](images/social_banner.png)
 
+[![An image of @thebenforce's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thebenforce)](https://holopin.io/@thebenforce)
+
 ### Hi 👋 I'm Ben Force
 
 I am a cloud-native, full stack developer.
